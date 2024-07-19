@@ -46,7 +46,5 @@ buttons.forEach(function(btn) {
             display_count.style.color = 'black'
 
         }
-
-
     })
 })
