@@ -1,0 +1,41 @@
+html{
+    margin: 0px;
+}
+
+body{
+    margin: 30vh;
+}
+
+h1{
+    margin: 0px;
+}
+
+p{
+    margin: 0px;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.display{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0px;
+}
+
+.btns{
+    margin: 50px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    border: none;
+    border-radius: 10px;
+    width: 400px;
+    height: 50px;
+    font-size: larger;
+    font-weight: 700;
+}
